@@ -225,6 +225,7 @@ BeerSheva24
       info
       logs
       objects
+      ORIG_HEAD
       refs
     .gitignore
     output.txt

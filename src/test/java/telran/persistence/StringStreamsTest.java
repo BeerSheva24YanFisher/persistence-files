@@ -45,7 +45,7 @@ public class StringStreamsTest {
         reader.close();
     }
     @Test
-    void printingDirectoryTest() throws Exception {
+    void printingDirectoryTest(){
         printDirectoryContent(PATH,3);
     }
     
